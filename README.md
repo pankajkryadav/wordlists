@@ -9,7 +9,7 @@ Below is a list of wordlists and their respective categories:
 ### 🛠️ Injection Payloads
 
 - **Command Injection**
-  - [`command_injection.txt`](command_injection.txt)
+  - [`Wordlist/command_injection.txt`](command_injection.txt)
   - [`command_injection mini.txt`](command_injection%20mini.txt)
   - [`OS-Command-Injection-Unix-Payloads.txt`](OS-Command-Injection-Unix-Payloads.txt)
 
