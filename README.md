@@ -17,6 +17,7 @@ Below is a list of wordlists and their respective categories:
   - [`SQL-Injection-Auth-Bypass-Payloads.txt`](Wordlists/SQL-Injection-Auth-Bypass-Payloads.txt)
   - [`SQL-Injection-Payloads.txt`](Wordlists/SQL-Injection-Payloads.txt)
   - [`sqli.txt`](Wordlists/sqli.txt)
+  - [`Login_Bypass.txt`](Wordlists/Login_bypass001.txt)
 
 - **PHP Code Injection**
   - [`PHP-Code-Injections-Payloads.txt`](Wordlists/PHP-Code-Injections-Payloads.txt)
